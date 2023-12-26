@@ -1,0 +1,51 @@
+{
+    "os": "Linux-5.15.0-1027-gcp-x86_64-with-glibc2.35",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-02-09T20:02:20.528153",
+    "startedAt": "2023-02-09T20:02:19.375196",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "main.py",
+    "codePath": "main.py",
+    "host": "fee4d2b6af27",
+    "username": "runner",
+    "executable": "/home/runner/ML-Hackathon/venv/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2249.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2249.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1639.7619400024414,
+        "used": 41.60455322265625
+    },
+    "memory": {
+        "total": 31.349872589111328
+    }
+}
